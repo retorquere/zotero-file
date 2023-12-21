@@ -40,13 +40,13 @@
 
 ## 预览
 
-![image](https://github.com/MuiseDestiny/zotero-file/assets/51939531/85988b3a-e626-4418-8d61-1a7d37431ae7)
+![image](https://github.com/retorquere/zotero-file/assets/51939531/85988b3a-e626-4418-8d61-1a7d37431ae7)
 
-![image](https://github.com/MuiseDestiny/zotero-file/assets/51939531/03018858-5f38-44ca-b5dc-0024d6d96143)
+![image](https://github.com/retorquere/zotero-file/assets/51939531/03018858-5f38-44ca-b5dc-0024d6d96143)
 
-![image](https://github.com/MuiseDestiny/zotero-file/assets/51939531/cf078acb-6f5b-4fc1-b1ab-5677a9c75257)
+![image](https://github.com/retorquere/zotero-file/assets/51939531/cf078acb-6f5b-4fc1-b1ab-5677a9c75257)
 
-![image](https://github.com/MuiseDestiny/zotero-file/assets/51939531/9c7a3be2-6776-448d-94f8-adf28559e3a3)
+![image](https://github.com/retorquere/zotero-file/assets/51939531/9c7a3be2-6776-448d-94f8-adf28559e3a3)
 
 ## 捐赠
 
